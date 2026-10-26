@@ -24,7 +24,7 @@ Output: each contacted host, the matching SDK from a known-SDK list, and the dat
 - [ ] Every third-party host is mapped to an SDK and a purpose
 - [ ] The SDK privacy manifests (PrivacyInfo.xcprivacy) are consistent with the label
 - [ ] Identifiers (IDFA/IDFV/device ID) sent before consent?
-- [ ] Health/fitness data leaving the device? This is relevant to the US FTC Health Breach Notification Rule (16 CFR Part 318), https://www.ftc.gov/legal-library/browse/rules/health-breach-notification-rule
+- [ ] Health/fitness data leaving the device? This is relevant to the US FTC Health Breach Notification Rule (16 CFR Part 318), https://www.ecfr.gov/current/title-16/chapter-I/subchapter-C/part-318
 - [ ] Crash/analytics payloads containing user content
 
 ## Need more?
