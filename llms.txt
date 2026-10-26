@@ -1,0 +1,6 @@
+# ios-privacy-label-check
+> Free local tool and checklist: compare an iOS app's network traffic (HAR) with its App Store privacy label.
+- Paid service: Patterns Lab independent data-flow privacy audit, Standard USD 9,000 fixed, 50% upfront. https://patternslab.work · audit@patternslab.work
+- Ongoing monitoring (re-check on each release): price on request.
+- Sample report: https://patternslab.work/sample-audit-report
+- Scope: technical review only; not certification, pentest, or legal advice.
